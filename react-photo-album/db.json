@@ -1,0 +1,261 @@
+{
+  "albums": [
+    {
+      "coverPic": "https://images.pexels.com/photos/2115950/pexels-photo-2115950.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "id": 1,
+      "name": "Red"
+    },
+    {
+      "coverPic": "https://images.pexels.com/photos/1210273/pexels-photo-1210273.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500 ",
+      "name": "Orange",
+      "id": 2
+    },
+    {
+      "coverPic": "https://images.pexels.com/photos/1461804/pexels-photo-1461804.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "id": 3,
+      "name": "Yellow"
+    },
+
+    {
+      "coverPic": "https://images.pexels.com/photos/1253718/pexels-photo-1253718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "id": 4,
+      "name": "Green"
+    },
+    {
+      "coverPic": "https://images.pexels.com/photos/1046238/pexels-photo-1046238.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "id": 5,
+      "name": "Indigo"
+    },
+    {
+      "coverPic": "https://images.pexels.com/photos/551623/pexels-photo-551623.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "id": 6,
+      "name": "Noir"
+    }
+  ],
+  "images": [
+    {
+      "id:": 1,
+      "albumId": 2,
+      "name": "jellyfish",
+      "url": "https://images.pexels.com/photos/1784578/pexels-photo-1784578.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+
+    {
+      "id": 3,
+      "albumId": 2,
+      "name": "waves",
+      "url": "https://images.pexels.com/photos/1210273/pexels-photo-1210273.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 4,
+      "name": "cactus",
+      "url": "https://images.pexels.com/photos/1239378/pexels-photo-1239378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "albumId": 2
+    },
+    {
+      "id": 2,
+      "albumId": 2,
+      "name": "TrainTracks",
+      "url": "https://images.pexels.com/photos/552779/pexels-photo-552779.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 5,
+      "albumId": 2,
+      "name": "treetop",
+      "url": "https://images.pexels.com/photos/2170231/pexels-photo-2170231.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 6,
+      "albumId": 2,
+      "name": "spider",
+      "url": "https://images.pexels.com/photos/2944895/pexels-photo-2944895.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+
+    {
+      "id": 8,
+      "name": "bus",
+      "albumId": 1,
+      "url": "https://images.pexels.com/photos/1837590/pexels-photo-1837590.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 9,
+      "name": "neonlight",
+      "albumId": 1,
+      "url": "https://images.pexels.com/photos/2115950/pexels-photo-2115950.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "11 ",
+      "name": "phone",
+      "albumId": 1,
+      "url": "https://images.pexels.com/photos/762545/pexels-photo-762545.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "10 ",
+      "name": "moon",
+      "albumId": 1,
+      "url": "https://images.pexels.com/photos/681467/pexels-photo-681467.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": " 12",
+      "name": "fish",
+      "albumId": 1,
+      "url": "https://images.pexels.com/photos/2707010/pexels-photo-2707010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 7,
+      "name": "redtree",
+      "albumId": 1,
+      "url": "https://images.pexels.com/photos/1006098/pexels-photo-1006098.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+
+    {
+      "id": " 13",
+      "name": "books",
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/5946/books-yellow-book-reading.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": "15 ",
+      "name": "walls",
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/1093946/pexels-photo-1093946.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "14 ",
+      "name": "buggy",
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/1461804/pexels-photo-1461804.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+
+    {
+      "id": "16 ",
+      "name": "floor",
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/1615420/pexels-photo-1615420.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": " 17",
+      "name": "flowerSunshine",
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/1149405/pexels-photo-1149405.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "18 ",
+      "name": "camera",
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/1878399/pexels-photo-1878399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": " 19",
+      "name": "nopal",
+      "albumId": 4,
+      "url": "https://images.pexels.com/photos/1253718/pexels-photo-1253718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": "20 ",
+      "name": "treeGirl",
+      "albumId": 4,
+      "url": "https://images.pexels.com/photos/238631/pexels-photo-238631.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": " 21",
+      "name": "chameleon",
+      "albumId": 4,
+      "url": "https://images.pexels.com/photos/62289/yemen-chameleon-chamaeleo-calyptratus-chameleon-reptile-62289.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "22 ",
+      "name": "northernlights",
+      "albumId": 4,
+      "url": "https://images.pexels.com/photos/1938353/pexels-photo-1938353.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+
+    {
+      "id": "24 ",
+      "name": "birdy",
+      "albumId": 4,
+      "url": "https://images.pexels.com/photos/1040397/pexels-photo-1040397.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "31 ",
+      "name": "bridge",
+      "albumId": 5,
+      "url": "https://images.pexels.com/photos/1046238/pexels-photo-1046238.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "26 ",
+      "name": "purjelly",
+      "albumId": 5,
+      "url": "https://images.pexels.com/photos/2690766/pexels-photo-2690766.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "28 ",
+      "name": "bookflower",
+      "albumId": 5,
+      "url": "https://images.pexels.com/photos/1702949/pexels-photo-1702949.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+
+    {
+      "id": "29 ",
+      "name": "crystals",
+      "albumId": 5,
+      "url": "https://images.pexels.com/photos/1121123/pexels-photo-1121123.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "30 ",
+      "name": "spiderflower",
+      "albumId": 5,
+      "url": "https://images.pexels.com/photos/682497/pexels-photo-682497.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": " 27",
+      "name": "jarstars",
+      "albumId": 5,
+      "url": "https://images.pexels.com/photos/3147957/pexels-photo-3147957.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+
+    {
+      "id": " 23",
+      "name": "jelly",
+      "albumId": 4,
+      "url": "https://images.pexels.com/photos/1059161/pexels-photo-1059161.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+
+    {
+      "id": " 34",
+      "name": "mountain",
+      "albumId": 6,
+      "url": "https://images.pexels.com/photos/763097/pexels-photo-763097.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "35 ",
+      "name": "bull",
+      "albumId": 6,
+      "url": "https://images.pexels.com/photos/551623/pexels-photo-551623.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "36 ",
+      "name": "typewriter",
+      "albumId": 6,
+      "url": "https://images.pexels.com/photos/952594/pexels-photo-952594.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "33 ",
+      "name": "littlehand",
+      "albumId": 6,
+      "url": "https://images.pexels.com/photos/736428/pexels-photo-736428.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "32 ",
+      "name": "cat",
+      "albumId": 6,
+      "url": "https://images.pexels.com/photos/248280/pexels-photo-248280.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": "25 ",
+      "name": "clocks",
+      "albumId": 6,
+      "url": "https://images.pexels.com/photos/707676/pexels-photo-707676.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    }
+  ]
+}
